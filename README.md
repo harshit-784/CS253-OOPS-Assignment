@@ -10,6 +10,7 @@ This is a car rental application that was made as part of the CS253 course offer
 ⁠UserId,Name,Password,Payable,Record, Number of Rented Cars, List of IDs of rented Cars. ⁠
 - The cars.txt has the following entries.
 ⁠ID,Make,Model,Color,Condition,OwnerId ("M" in case of Not rented),DueDate (0 in case of not rented),Cost per day,year.
+-The Manager has the password "Mrental001" for signing in.
 
 ## Running the Code 
 - Compile the code using ```G++``` compiler with version >=11.0 and Run the rental.exe file.
